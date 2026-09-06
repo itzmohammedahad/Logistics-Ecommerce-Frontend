@@ -34,4 +34,5 @@ A multi-tenant e-commerce and logistics aggregation platform designed for freigh
 ### Installation
 1. Clone the repository:
    ```bash
- git clone https://github.com/itzmohammedahad/Logistics-Ecommerce---Frontend.git   
+ git clone https://github.com/itzmohammedahad/Logistics-Ecommerce---Frontend.git
+   ```
