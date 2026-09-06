@@ -28,11 +28,44 @@ A multi-tenant e-commerce and logistics aggregation platform designed for freigh
 ## 🚀 Getting Started Locally
 
 ### Prerequisites
-- Node.js (v16.0 or higher)
-- npm or yarn
+Before you begin, ensure you have the following installed on your machine:
+
+- Node.js v18 or later
+- npm (comes bundled with Node.js)
 
 ### Installation
+
 1. Clone the repository:
+
    ```bash
- git clone https://github.com/itzmohammedahad/Logistics-Ecommerce---Frontend.git
+   git clone https://github.com/itzmohammedahad/Logistics-Ecommerce---Frontend.git
+   cd Logistics-Ecommerce---Frontend
    ```
+
+2. Install the project dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+4. Open the local development URL shown in the terminal in your browser.
+
+### Production Build
+
+To create an optimized production build, run:
+
+```bash
+npm run build
+```
+
+To preview the production build locally:
+
+```bash
+npm run preview
+```
